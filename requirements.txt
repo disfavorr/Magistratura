@@ -1,0 +1,30 @@
+# Работаем с данными
+numpy==1.26.4
+pandas==3.0.2
+scipy==1.17.1
+
+# ML
+scikit-learn==1.5.2
+xgboost==1.7.6
+catboost==1.2.10
+pytorch-tabnet==4.1.0
+torch==2.11.0
+
+# Гиперпараметры Оптуна
+optuna==4.8.0
+
+# Работа с автоматическим отбором признаков
+featurewiz==0.6.1
+category-encoders==2.6.3
+imbalanced-learn==0.14.1
+
+# Интерпретируемость признаков
+shap==0.49.1
+
+# Графики
+matplotlib==3.10.9
+seaborn==0.13.2
+
+# БД если с нуля тащить дамп
+PyMySQL==1.1.2
+SQLAlchemy==2.0.49

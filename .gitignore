@@ -1,0 +1,22 @@
+# Виртуальное окружение
+venv/
+__pycache__/
+*.pyc
+
+# Тяжёлые данные
+*.pkl
+*.zip
+*.db
+*.csv.gz
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Системные
+.DS_Store
+Thumbs.db
+
+# Optuna хранилка
+*.sqlite
